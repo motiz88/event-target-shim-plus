@@ -1,7 +1,7 @@
 {
-  "name": "event-target-shim",
-  "version": "6.0.2",
-  "description": "An implementation of WHATWG EventTarget interface.",
+  "name": "@motiz88/event-target-shim-plus",
+  "version": "0.0.1",
+  "description": "An implementation of WHATWG EventTarget interface, modified from event-target-shim.",
   "main": "index.js",
   "exports": {
     ".": {
