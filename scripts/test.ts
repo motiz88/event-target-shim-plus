@@ -180,6 +180,10 @@ async function build(
                         transpileOnly: true,
                     },
                 },
+                {
+                    test: /\.node$/,
+                    loader: "null-loader",
+                },
             ],
         },
         output: {
